@@ -13,7 +13,7 @@ Field Trip 是 Niantic 在 2012 年退出的一款地理分享应用,鼓励玩�
 
 
 相关链接：
-- [杭州cafe 数据来源 awesome-cn-cafe]（https://github.com/ElaWorkshop/awesome-cn-cafe）
+- [杭州 cafe 数据来源 awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
 - [你从未认识你的城市](https://sspai.com/post/31152)
 - [什么是Geocaching?](https://mako.bitcron.com/post/game/shi-yao-shi-di-li-xun-bao)
 - [城市探索 App Mars](http://www.yohomars.com/)
