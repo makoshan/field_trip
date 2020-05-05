@@ -10,7 +10,7 @@
 ## 项目目前进展
 
 杭州城市探索地图
-- 公共文化空间: 咖啡馆和书店 
+- 探索符合本地文化和充满地方感的地点: 景点、书店、餐厅、咖啡馆
 - 地图预览：https://mako.bitcron.com/ingress
 
 
@@ -22,6 +22,7 @@
 
 咖啡馆： "marker-color": "#F3AE1A","marker-symbol": "cafe"
 书店： "marker-color": "#50C240","marker-symbol": "library"
+景点： "marker-color": "#ce5c4e","marker-symbol": "triangle"
 
 ### 通过手机 App
 
