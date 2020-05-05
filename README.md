@@ -25,7 +25,7 @@
 景点： "marker-color": "#ce5c4e","marker-symbol": "triangle"
 
 ### 获取经纬度
-https://tool.lu/coordinate/，地图选择位置后，选择 WGS84 坐标系
+[https://tool.lu/coordinate](https://tool.lu/coordinate/)，地图选择位置后，选择 WGS84 坐标系
 
 
 ### 特别感谢
