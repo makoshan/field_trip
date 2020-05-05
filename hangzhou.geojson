@@ -274,7 +274,7 @@
         "开放时间": "08:00-17:30(夏季),08:00-17:00(冬季)，(全年开放)",
         "地址": "杭州市上城区元宝街18号",
         "marker-color": "#ce5c4e",
-        "marker-symbol": "religious-shinto"
+        "marker-symbol": "landmark"
       },
       "geometry": {
         "type": "Point",
