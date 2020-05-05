@@ -16,7 +16,7 @@
 
 ## 贡献
 
-欢迎发 pull request 添加你去过的咖啡馆和书店。请通过浏览器或手机 app 等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [hangzhou.geojson](hangzhou.geojson)。
+欢迎发 pull request 添加你去过的可以传递本地感的地方。获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [hangzhou.geojson](hangzhou.geojson)。
 
 ## 颜色标记
 
@@ -24,17 +24,14 @@
 书店： "marker-color": "#50C240","marker-symbol": "library"
 景点： "marker-color": "#ce5c4e","marker-symbol": "triangle"
 
-### 通过手机 App
+### 获取经纬度
+https://tool.lu/coordinate/，地图选择位置后，选择 WGS84 坐标系
 
-推荐使用 [Speedtest](http://www.speedtest.net/mobile/)（[iOS](https://itunes.apple.com/app/speedtest-net-mobile-speed/id300704847?mt=8) / [Android](https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest)），既可测试网络速度也能获取当前经纬度。
 
-### 通过浏览器
-
-请用 [Speedtest](http://speedtest.net) 或其他工具测试网络速度、Mapbox 的[显示经纬度](https://www.mapbox.com/mapbox.js/example/v1.0.0/select-center-form/)来获取经纬度。如果你正在咖啡馆并且可以翻墙，可以使用 [whereami](https://xavierchow.github.io/whereami/) 来获得当前经纬度。其他工具：https://tool.lu/coordinate/，地图选择位置后，选择 WGS84 坐标系。
-
+### 特别感谢
+本项目使用 [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) 相关开源内容
 
 ## 相关链接
-- [杭州 cafe 数据来源 awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe)
 - [你从未认识你的城市](https://sspai.com/post/31152)
 - [什么是Geocaching?](https://mako.bitcron.com/post/game/shi-yao-shi-di-li-xun-bao)
 - [城市探索 App Mars](http://www.yohomars.com/)
